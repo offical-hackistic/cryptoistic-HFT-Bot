@@ -1,0 +1,6 @@
+body { background-color: #0f0f0f; color: #00ff00; font-family: 'Courier New', monospace; }
+.logo { font-family: 'Courier New', monospace; font-size: 3em; text-align: center; margin: 20px; color: #00ff00; text-shadow: 0 0 10px #00ff00; }
+.dashboard { padding: 20px; }
+.trade-table { width: 100%; border-collapse: collapse; }
+.trade-table th, .trade-table td { border: 1px solid #00ff00; padding: 8px; text-align: center; }
+.trade-table th { background-color: #001100; }
